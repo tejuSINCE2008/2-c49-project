@@ -1,0 +1,14 @@
+.grid img{
+    border:2px;
+    border-radius: 50px;  
+}
+.origami{
+    border-radius: 20px;
+    background-color:magenta;
+    margin:50px
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
